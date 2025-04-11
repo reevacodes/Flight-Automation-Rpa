@@ -14,7 +14,7 @@ The bot simulates a real user booking a flight:
 - Proceeds to booking
 
 ## 🛠️ Tools Used
-- [Your RPA tool here, e.g., UiPath / Selenium / Python + TagUI]
+- Ui Path
 - Browser automation
 - UI selectors and input handling
 
